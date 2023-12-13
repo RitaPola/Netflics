@@ -1,3 +1,3 @@
 # Netflics
 
-To initialize the project, read init-mongo
+To initialize the project, read--> init-mongo.
